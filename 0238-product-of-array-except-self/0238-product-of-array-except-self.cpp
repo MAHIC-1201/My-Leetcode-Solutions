@@ -12,13 +12,10 @@ public:
         }
         for(int i=length-1; i>=0 ;i--)
         {
-            suffix[i]*=sm;
+            prefix[i]*=sm;
             sm=sm*nums[i];
         }
-        for(int i=0;i<length;i++)
-        {
-            prefix[i]*=suffix[i];
-        }  
+         
         return prefix;
 
     }
