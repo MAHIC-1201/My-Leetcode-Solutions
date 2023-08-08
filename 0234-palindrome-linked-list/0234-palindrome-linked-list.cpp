@@ -12,11 +12,11 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
         vector<int> arr;
-        ListNode *temp=head;
-        while(temp!=NULL)
+        
+        while(head!=NULL)
         {
-            arr.push_back(temp->val);
-            temp=temp->next;
+            arr.push_back(head->val);
+            head=head->next;
         }
         for(int i=0;i<arr.size();i++)
         {
