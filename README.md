@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0274-h-index) |
+| [0485-max-consecutive-ones](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 # Sorting
 |  |
 | ------- |
