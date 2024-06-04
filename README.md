@@ -4,13 +4,24 @@
 # Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0274-h-index) |
 | [0485-max-consecutive-ones](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 # Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0274-h-index) |
 # Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0274-h-index) |
+# Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0169-majority-element) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0169-majority-element) |
