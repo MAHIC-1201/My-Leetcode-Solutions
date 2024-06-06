@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0274-h-index) |
 | [0485-max-consecutive-ones](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -31,3 +32,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
