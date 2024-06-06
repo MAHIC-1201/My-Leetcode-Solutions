@@ -4,12 +4,14 @@
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0274-h-index) |
 | [0485-max-consecutive-ones](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0274-h-index) |
 # Counting Sort
@@ -25,3 +27,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0169-majority-element) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
