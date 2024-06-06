@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -23,6 +24,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 # Divide and Conquer
 |  |
@@ -36,3 +38,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
