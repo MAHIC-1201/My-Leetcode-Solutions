@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -31,6 +32,7 @@
 # Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0169-majority-element) |
 # Two Pointers
 |  |
@@ -39,6 +41,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Matrix
 |  |
