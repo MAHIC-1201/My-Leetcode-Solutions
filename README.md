@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -37,6 +38,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 # Dynamic Programming
 |  |
