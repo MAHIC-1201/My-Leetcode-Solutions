@@ -87,4 +87,16 @@
 | [1258-article-views-i](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
