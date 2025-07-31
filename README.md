@@ -99,4 +99,16 @@
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
