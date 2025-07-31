@@ -94,6 +94,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/MAHIC-1201/My-Leetcode-Solutions/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
